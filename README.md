@@ -1,6 +1,6 @@
 # SimulatedAnnealing
 
-The program uses .tsp files from http://www.math.uwaterloo.ca/tsp/world/countries.html to run the algorithm
+The program uses .tsp files from http://www.math.uwaterloo.ca/tsp/world/countries.html to run the algorithm.
 
 ---
 
@@ -9,6 +9,8 @@ The program is designed to run in a command prompt. To run it, change to the dir
 in the directory. When executing, it requires one parameter which will be the .tsp file to run the algorithm on.  
 For example, use:  
 `py Traveling_Salesperson_Problem.py qa194.tsp`
+
+This repository has given a few example .tsp files to use.
 
 ---
 
